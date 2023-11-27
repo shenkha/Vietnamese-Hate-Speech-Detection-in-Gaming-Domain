@@ -2,5 +2,5 @@
 - This is the final project of my CS114 course at UIT.
 - I put all my code and paper here.
 - We did crawl comments on Youtube to create our own dataset, then we fine-tuned SOTA models on that dataset.
-- The dataset is not recommended to use on any purpose as classes were heavily imbalance.
+- The dataset is not recommended to use on any purpose as classes were moderately imbalance, we suggest you do EDA (Easy Data Augmentation) before using.
 - UPDATE: XLM-R may outperform other mentioned methods in the paper and achieve the highest result in our dataset. 
